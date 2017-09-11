@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoMessager:jar">
+    <output-path>$USER_HOME$/Desktop/Java SCR Code/,outut</output-path>
+    <root id="archive" name="AutoMessager.jar">
+      <element id="module-output" name="AutoMessager" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

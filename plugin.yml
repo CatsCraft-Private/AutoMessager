@@ -1,0 +1,7 @@
+name: AutoBroadcaster
+main: message.brainsynder.Core
+version: 1.0
+author: brainsynder
+commands:
+   autobroadcast:
+       description: Reloads the Config file.
